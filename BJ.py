@@ -4,7 +4,7 @@ i = 0
 a = 0
 b = 0
 t = 0
-balance = 500
+balance = 1000
 while i == 0 :
     while a == 0:
         print(f"Tu dinero es {balance}")
